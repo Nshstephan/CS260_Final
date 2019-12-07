@@ -1,0 +1,14 @@
+Photos with Standard Bahavior.
+
+88-11-layer0-gauss(radius_4)
+88-11-layer1-median(radius_6)
+88-11-minimum(rad_2)-median(rad_5)-layer2
+
+
+
+In "failed" folder are photos which are not Standard Bahavior or it could be better than obtained result.
+
+88-11-layer1-median(radius_2)
+87-11-layer0-max3-median2
+89-11-layer0-max3
+90-11-layer0-maximum2-median2

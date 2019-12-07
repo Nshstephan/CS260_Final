@@ -1,4 +1,4 @@
-Firstly, I am using Gaussian Blur and Median to get rid of unnecessary dots which are not on face than I am applying maximum to make remaining black pixels bold and smooth.
+Firstly, I am using Gaussian Blur and Median to get rid of unnecessary dots which are not on face then I am applying maximum to make remaining black pixels bold and smooth.
 So, my suggestion is to use Gauss (radius 2) + Median (radius 2) + Max (radius 2) + binary_layer_x
 
 I am using radius 2 in order to not damage small parts for example mouth.
