@@ -106,3 +106,5 @@ public class Specification implements PlugInFilter {
     }
 
 }
+
+//copyright Narek Tumanyan

@@ -136,3 +136,5 @@ public class SpecificationHSV implements PlugInFilter {
     }
 
 }
+
+//copyright Narek Tumanyan
