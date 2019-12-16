@@ -69,4 +69,4 @@ public class LipDetector implements PlugInFilter
   }
 }
 
-//I used Edgar Avagyans code as base to develope my version of code 
+//I used Edvard Avagyans code as base to develope my version of code 
