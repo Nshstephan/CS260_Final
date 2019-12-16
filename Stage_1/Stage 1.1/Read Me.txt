@@ -12,3 +12,4 @@ In "failed" folder are photos which are not Standard Bahavior or it could be bet
 87-11-layer0-max3-median2
 89-11-layer0-max3
 90-11-layer0-maximum2-median2
+88-11-layer0-gauss(radius_4)

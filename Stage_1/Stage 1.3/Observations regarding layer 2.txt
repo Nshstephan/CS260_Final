@@ -1,0 +1,7 @@
+From 88-10-layer2 and 88-11-layer2 it is obvious that photos are in different positions. So to understand degree of roation it is enough to apply layer2.
+
+For emotions
+
+The smile causes a gap to appear between the area where Layer 2 would normally detect lips and nose. Also, the nasal are shift upwards as the smile causes the are around the mouth to enlarge. 
+
+check image 88-11-layer2 and 88-12-layer2
