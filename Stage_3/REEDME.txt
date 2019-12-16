@@ -1,3 +1,4 @@
 For this stage I decided to implement some solution for lip detection. 
 Basically, user needs to apply Binary Layer 3 on photo XX-11 an then apply my LipDetector plugin. It contains 2 main function: centroid and bounding box drawer. 
 Centroid finds a point close to concentration of black pixels and BoundingBoxDrawer draws square with given radius using as center the point which was obtain by centroid function. 
+Note, I used croped versions of photos. 
